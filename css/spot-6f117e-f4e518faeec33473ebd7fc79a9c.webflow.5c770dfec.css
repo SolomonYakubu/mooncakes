@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -2447,7 +2448,7 @@ a {
   align-items: center;
   padding-top: 0;
   padding-bottom: 0;
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   display: flex;
 }
 
@@ -2526,7 +2527,7 @@ a {
   border-radius: 20px;
   margin-right: 0;
   padding: 20px 40px;
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   font-size: 37px;
   font-weight: 600;
   line-height: 26px;
@@ -2725,7 +2726,7 @@ a {
   margin-top: 5vh;
   padding-left: 0;
   padding-right: 0;
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   display: flex;
 }
 
@@ -2782,7 +2783,7 @@ a {
   padding-top: 40px;
   padding-left: 0;
   padding-right: 0;
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   font-size: 31px;
   font-weight: 400;
 }
@@ -2875,7 +2876,7 @@ a {
 
 .black-text {
   color: var(--white);
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   font-size: 42px;
   line-height: 1;
 }
@@ -2930,7 +2931,7 @@ a {
 .black {
   color: var(--white);
   text-align: center;
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   font-size: 75px;
   line-height: 1;
 }
@@ -3113,7 +3114,7 @@ a {
 }
 
 .nav-menu-2 {
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
 }
 
 .image-licensing {
@@ -3133,7 +3134,7 @@ a {
 .heading-3 {
   text-shadow: 0 1px 1px #000;
   padding-left: 37px;
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   font-size: 29vh;
   line-height: 1;
 }
@@ -3175,7 +3176,7 @@ a {
 }
 
 .heading-4 {
-  font-family: Docallismeonstreet, sans-serif;
+  font-family: "Ma Shan Zheng", sans-serif;
   font-size: 71px;
 }
 
@@ -3632,8 +3633,8 @@ a {
 }
 
 @font-face {
-  font-family: 'Docallismeonstreet';
-  src: url('../fonts/656e858da27d8d8110120eeb_docallismeonstreet.otf') format('opentype');
+  font-family: '"Ma Shan Zheng"';
+  src: url('../fonts/656e858da27d8d8110120eeb_"Ma Shan Zheng".otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
